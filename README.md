@@ -103,10 +103,4 @@ COTE/
 - **플랫폼**: Windows (x64)
 - **주요 사이트**: [백준](https://www.acmicpc.net/), [프로그래머스](https://programmers.co.kr/)
 
-## 🤝 기여 및 피드백
-
-이 프로젝트는 개인 학습용이지만, 비슷한 구조로 학습하고 싶으신 분들은 자유롭게 Fork 해주세요!
-
 ---
-
-**Happy Coding! 🎯**
